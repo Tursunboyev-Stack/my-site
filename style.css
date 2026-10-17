@@ -221,10 +221,14 @@ h1 span {
     border-radius: 140px 140px 16px 16px
 }
 
+.hero {
+    overflow-x: clip
+}
+
 .code {
     position: absolute;
-    right: -6px;
-    top: 28%;
+    right: -70px;
+    top: 46%;
     background: #0b1028;
     border: 1px solid #232a55;
     border-radius: 8px;
